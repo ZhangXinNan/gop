@@ -1,3 +1,4 @@
+_build/
 build/
 *~
 *.mat
@@ -7,3 +8,4 @@ src/*
 *.pyc
 lib/python/dataset/CMakeLists.txt
 *.so
+.vscode
